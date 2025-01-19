@@ -19,3 +19,5 @@ What factors are most influential for pricing?
 
 ## Files
 AirBnB_Project.ipynb - This notebook file contains the code(with appropriate comments) used for the analysis of the data to achieve the aim of the project
+
+Note: Dataset  was too large to include in the repo but can be found at this link https://insideairbnb.com/get-the-data/
