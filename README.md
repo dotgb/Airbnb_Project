@@ -13,7 +13,7 @@ Exploring renting a more expensive apartment in NYC with the hope of offsetting 
 I plan on renting an apartment in NYC(Manhattan) that is $3500, I would prefer to leave alone and expect to travel at least one weekend every month. I need to find out using the public airbnb data if it is possible to make at least $500 by posting the apartment on Airbnb on the weekend so my monthly out of pocket rent is $3000.
 
 ## Questions I intend to answer in this project
-How much do studios in NYC make on weekends?
+How much do apartments in NYC make on AirBnB?
 What areas make the most?
 What factors are most influential for pricing?
 
